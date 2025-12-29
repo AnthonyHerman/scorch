@@ -1,0 +1,10 @@
+[package]
+name = "scorch"
+version = "0.1.0"
+edition = "2021"
+description = "Burn through your disk to find what's scorching your storage"
+authors = ["Anthony"]
+
+[dependencies]
+gtk4 = "0.9"
+walkdir = "2"
